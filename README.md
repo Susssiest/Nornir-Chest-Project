@@ -46,3 +46,7 @@ All wiring runs down into the base. Power is split between an external **4× AA 
 ## Updates
 
 - Added a fully 3D-printable version.
+
+## Get .blend File Here
+(I'm also a noob to github lol. I can't figure out how to upload large files.)
+https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
