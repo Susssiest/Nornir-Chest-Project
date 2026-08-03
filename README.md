@@ -4,14 +4,17 @@
   <img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/e4af5ea9-ea40-43cc-afae-b2a4e4423496" />
 
 
-Electronics
+ELECTRONICS
+
 This project uses a variety of electronics to recreate the Nornir Chest mechanics from God of War Ragnarök. Since I’m still relatively new to microcontrollers, everything is currently prototyped on a breadboard.
 The breadboard sits inside the base next to mounts for the battery pack and an Arduino Nano. The chest itself contains three WS2812B LED rings (7 pixels each), one in each rune slot, plus two servos (one on each side) that lock the lid closed.
 The seals:
 
-Brazier – The most complex seal. A reed switch detects the magnetic Blades of Chaos when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so the light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
-Rotating Totem – My personal favorite. A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder that has three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
-Bell – A piezo disk detects the vibration when the bell is rung. A single LED lights the corresponding rune.
+BRAZIER – The most complex seal. A reed switch detects the magnetic Blades of Chaos when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so the light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
+
+ROTATING POLE– My personal favorite. A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder that has three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
+
+RUNE BELL – A piezo disk detects the vibration when the bell is rung. A single LED lights the corresponding rune.
 
 All wiring runs down into the base. Power is split: an external 4× AA battery holder (housed in the base) supplies the servos and LEDs, while the Arduino Nano is powered via a USB-C cable.
 
