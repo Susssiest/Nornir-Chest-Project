@@ -1,5 +1,7 @@
 # Nornir Chest from *God of War Ragnarök*
 
+<img width="1039" height="617" alt="Nornir Chest Photo" src="https://github.com/user-attachments/assets/2d2d0e57-6210-4ed4-a3c7-2934f1b0c908" />
+
 My goal for this project changed a lot over time. At first, I just wanted to make a model of a **3D-printable Nornir Chest** with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
 
 I’m new to the world of **Arduino, PCBs, soldering, and electronics**, but I quickly realized I could incorporate all of that into my model. In *God of War Ragnarök*, you must activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
