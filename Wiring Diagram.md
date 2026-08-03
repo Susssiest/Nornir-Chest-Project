@@ -41,7 +41,7 @@ The breadboard, Arduino Nano, and battery pack all sit inside the base.
 - **Reed switch** – brazier (detects magnetic Blades of Chaos)
 - **Piezo disk** – bell
 - **3× single LEDs** – illuminate the runes on the totem
-- **1× single LED** – Bell indicator
+- **1× single LED** – illuminates the rune on the bell
 - **4× AA battery pack** – powers all LEDs and servos
 
 ### Seal Details
