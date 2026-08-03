@@ -81,40 +81,36 @@ All wires run down through the stand into the base.
 ---
 
 ## Wiring Diagram
-┌─────────────────────┐
-│   Arduino Nano      │
-│                     │
-Reed Switch ────►│ D12                 │
-│                     │
-Piezo (+) ──────►│ A0                  │
-│                     │
-Encoder CLK ────►│ D7                  │
-Encoder DT  ────►│ D8                  │
-Encoder SW  ────►│ D11 (optional)      │
-│                     │
-Totem LED 1 ────►│ D2  (+ 220 Ω)       │
-Totem LED 2 ────►│ D3  (+ 220 Ω)       │
-Totem LED 3 ────►│ D4  (+ 220 Ω)       │
-│                     │
-Brazier Ring ───►│ D5  (Data)          │
-Chest Rings ────►│ D6  (Data)          │
-│                     │
-Servo Left  ────►│ D9                  │
-Servo Right ────►│ D10                 │
-│                     │
-Bell LED ───────►│ D13 (+ 220 Ω)       │
-└─────────────────────┘
 
-text### Power Connections
-4×AA Battery Pack (+) ──┬── VCC of all WS2812B rings
-├── VCC of both servos
-├── Anodes of the 3 Totem LEDs (via 220 Ω)
-└── Anode of the Bell LED (via 220 Ω)
-4×AA Battery Pack (–) ──┬── GND of all LEDs, servos, and sensors
-└── Arduino Nano GND
-USB-C ──────────────────── Arduino Nano only
+| Component              | Wire / Signal          | Connects To              | Notes                          |
+|------------------------|------------------------|--------------------------|--------------------------------|
+| Reed Switch            | One side               | D12                      | Other side → GND               |
+| Piezo Disk             | Positive               | A0                       | Negative → GND                 |
+| Rotary Encoder         | CLK                    | D7                       |                                |
+| Rotary Encoder         | DT                     | D8                       |                                |
+| Rotary Encoder         | SW (optional)          | D11                      |                                |
+| Totem LED 1            | Anode                  | D2 (via 220 Ω)           | Cathode → GND                  |
+| Totem LED 2            | Anode                  | D3 (via 220 Ω)           | Cathode → GND                  |
+| Totem LED 3            | Anode                  | D4 (via 220 Ω)           | Cathode → GND                  |
+| Brazier Red LED Ring   | Data                   | D5                       |                                |
+| Chest Rune LED Rings   | Data                   | D6                       | Can be chained                 |
+| Servo Left             | Signal                 | D9                       |                                |
+| Servo Right            | Signal                 | D10                      |                                |
+| Bell LED               | Anode                  | D13 (via 220 Ω)          | Cathode → GND                  |
 
-text> **Important Notes**
+### Power Connections
+
+| From                    | To                              | Notes                              |
+|-------------------------|---------------------------------|------------------------------------|
+| 4× AA Battery Pack (+)  | VCC of all WS2812B rings        |                                    |
+| 4× AA Battery Pack (+)  | VCC of both servos              |                                    |
+| 4× AA Battery Pack (+)  | Anodes of 3 Totem LEDs          | Through 220 Ω resistors            |
+| 4× AA Battery Pack (+)  | Anode of Bell LED               | Through 220 Ω resistor             |
+| 4× AA Battery Pack (–)  | GND of all LEDs, servos, sensors|                                    |
+| 4× AA Battery Pack (–)  | Arduino Nano GND                | Common ground required             |
+| USB-C                   | Arduino Nano                    | Powers the microcontroller only    |
+
+> **Important Notes**
 > - Connect the battery negative and the Nano’s GND together (common ground is required).
 > - Never power the servos or WS2812B LEDs from the Nano’s 5V pin — they draw too much current.
 > - A 100–1000 µF capacitor across the LED power rails is recommended to reduce voltage spikes.
@@ -123,5 +119,4 @@ text> **Important Notes**
 
 ## Status
 
-The design is complete and ready for testing and final assembly.  
-I’m looking forward to building the full interactive version once the project is funded.
+I’m looking forward to building the full electronic interactive version once the project is funded.
