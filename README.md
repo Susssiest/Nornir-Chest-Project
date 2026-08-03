@@ -5,13 +5,13 @@
 
 CREDITS:
 
-https://makerworld.com/en/models/3068479-blades-of-chaos-fridge-magnet#profileId-3454054
+https://makerworld.com/en/models/3068479-blades-of-chaos-fridge-magnet#profileId-3454054 - Used as the magnetic Blades of Chaos inserted into the brazier. It is meant to be a fridge magnet.
 
-https://makerworld.com/en/models/2541501-stoneformation-15?from=search#profileId-2798135
+https://makerworld.com/en/models/2541501-stoneformation-15?from=search#profileId-2798135 - This is the rocky base I used. I modified it to have a central port for all the electronics, and indents to connect the chest and 3 seals onto it.
 
-https://makerworld.com/en/models/1896813-hw-040-module-case-housing-enclosure?from=search#profileId-2032305  
+https://makerworld.com/en/models/1896813-hw-040-module-case-housing-enclosure?from=search#profileId-2032305  - This is just a enclosure for the rotary encoder.
 
-https://makerworld.com/en/models/791901-print-in-place-hinge-set?from=search#profileId-730453 
+https://makerworld.com/en/models/791901-print-in-place-hinge-set?from=search#profileId-730453  - This is the hinge I used. I modified it to have extruded pins, and be mush smaller.
   
   UPDATES:
 
