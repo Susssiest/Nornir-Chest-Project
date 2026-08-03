@@ -4,11 +4,16 @@
   <img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/e4af5ea9-ea40-43cc-afae-b2a4e4423496" />
 
 
-ELECTRONICS
+Electronics
+This project uses a variety of electronics to recreate the Nornir Chest mechanics from God of War Ragnarök. Since I’m still relatively new to microcontrollers, everything is currently prototyped on a breadboard.
+The breadboard sits inside the base next to mounts for the battery pack and an Arduino Nano. The chest itself contains three WS2812B LED rings (7 pixels each), one in each rune slot, plus two servos (one on each side) that lock the lid closed.
+The seals:
 
-My project uses a variety of electronics to imitate the Nornir Chest from God Of War Ragnarock. I'm a noob in the world of micro controllers, so I'm using a breadboard. The breadboard is the main port for all other electronics, it positioned inside the base, next to mounts for a battery and an arduino nano. The chest has three WS2812B led rings (7 pixels per ring) in each rune slot, and two servos, one on each side, to lock the lid onto the chest. The brazier is by far the most complicated seal, it has a reed switch to sense the magnetic Blades of Chaos, which will be inserted into a hole in the coals, a led ring just below the reed switch to glow red when activated, and a led ring for the rune. The coals will be printed with low infill and less wall loops to let light through. The rotating totem might be my favorite seal, it uses a rotary encoder to detect how the pole is rotated, and as the pole rotates different runes will be displayed. The pole is connected to a hollow cylinder that has three runes on 3 different sides, as the pole rotates, so does the rune cylinder. There are three LEDs mounted on the side of the pole to make each rune glow. The final seal is the bell. It uses a piezo disk to detect vibrations, and a led to light up the rune. All wires go through the stand into the base. I am using an external 4X AA battery holder for the servos and leds, it will be housed inside the base. The microcontroller, an arduino nano, will also be housed in the base, it will use a usbc cable as a power source.
+Brazier – The most complex seal. A reed switch detects the magnetic Blades of Chaos when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so the light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
+Rotating Totem – My personal favorite. A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder that has three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
+Bell – A piezo disk detects the vibration when the bell is rung. A single LED lights the corresponding rune.
 
-
+All wiring runs down into the base. Power is split: an external 4× AA battery holder (housed in the base) supplies the servos and LEDs, while the Arduino Nano is powered via a USB-C cable.
 
 CREDITS:
 
