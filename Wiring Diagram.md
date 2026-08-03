@@ -39,7 +39,7 @@ The breadboard, Arduino Nano, and battery pack all sit inside the base.
 - **2× Servos** – lock the lid closed
 - **Rotary encoder** – rotating totem
 - **Reed switch** – brazier (detects magnetic Blades of Chaos)
-- **Piezo disk** – bell
+- **Piezo disk** – tracks bell vibration
 - **3× single LEDs** – illuminate the runes on the totem
 - **1× single LED** – illuminates the rune on the bell
 - **4× AA battery pack** – powers all LEDs and servos
@@ -47,7 +47,7 @@ The breadboard, Arduino Nano, and battery pack all sit inside the base.
 ### Seal Details
 
 **Brazier**  
-Uses a reed switch to detect the magnetic Blades of Chaos inserted into the coals. An LED ring under the reed switch glows red when activated. The coals are printed with low infill and fewer walls so light can shine through.
+Uses a reed switch to detect the magnetic Blades of Chaos inserted into the coals. An LED ring under the reed switch glows red when activated. The coals are printed with low infill and fewer walls so light can shine through. An led ring is also mounted further down in the base to illuminate the rune.
 
 **Rotating Totem**  
 A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes. As it rotates, three LEDs on the side of the pole light the correct rune.
