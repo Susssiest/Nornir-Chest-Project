@@ -2,39 +2,39 @@
 
 <img width="1039" height="617" alt="Nornir Chest Photo" src="https://github.com/user-attachments/assets/2d2d0e57-6210-4ed4-a3c7-2934f1b0c908" />
 
-My goal for this project changed a lot over time. At first, I just wanted to make a model of a **3D-printable Nornir Chest** with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
+My goal for this project changed a lot over time. At first, I just wanted to make a model of a 3D-printable Nornir Chest with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
 
-I’m new to the world of **Arduino, PCBs, soldering, and electronics**, but I quickly realized I could incorporate all of that into my model. In *God of War Ragnarök*, you must activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
+I’m new to the world of Arduino, PCBs, soldering, and electronics, but I quickly realized I could incorporate all of that into my model. In *God of War Ragnarök*, you must activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
 
 When a seal is broken, the chest’s corresponding rune flashes white and then stops glowing. Once all three runes are deactivated, the chest can open and you can retrieve the reward.
 
-My model uses several different sensors to imitate the seals, including a **reed switch**, a **rotary encoder**, and a **piezo disk**. The chest itself has **LED rings** inside the rune slots and **two servos** to lock it. The model will be 3D printed in multiple colors and will use around **1.5 kg of filament**.
+My model uses several different sensors to imitate the seals, including a **reed switch**, a **rotary encoder**, and a **piezo disk**. The chest itself has **LED rings** inside the rune slots and **two servos** to lock it. The model will be 3D printed in multiple colors and will use around 1.5 kg of filamenT.
 
 I also plan to make two additional versions of the model:
 
-- A **fully 3D-printable replica** of the chest with no electronics slots, no base, and no seals, using around **300 g of filament**.
+- A **fully 3D-printable replica** of the chest with no electronics slots, no base, and no seals, using around 300 g of filament.
 - A **simplified lamp version** that follows my original idea more closely, using only LEDs and batteries for a much less complicated but still attractive build.
 
 I’m really happy with how the project turned out, and I’m looking forward to building it if it gets funded.
 
 ## Electronics
 
-This project uses a variety of electronics to recreate the Nornir Chest mechanics from *God of War Ragnarök*. Since I’m still relatively new to microcontrollers, I will be using a **breadboard**.
+This project uses a variety of electronics to recreate the Nornir Chest mechanics from *God of War Ragnarök*. Since I’m still relatively new to microcontrollers, I will be using a breadboard.
 
-The breadboard sits inside the base, next to mounts for the battery pack and an **Arduino Nano**. The chest itself contains three **WS2812B LED rings** with 7 pixels each, one in each rune slot, plus **two servos** — one on each side — that keep the lid locked closed.
+The breadboard sits inside the base, next to mounts for the battery pack and an **Arduino Nano**. The chest itself contains three **WS2812B LED rings** with 7 pixels each, one in each rune slot, plus two servos — one on each side — that keep the lid locked closed.
 
 ## Seals
 
 ### Brazier
-The most complex seal. A **reed switch** detects the magnetic *Blades of Chaos* when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
+The most complex seal. A reed switch detects the magnetic *Blades of Chaos* when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
 
 ### Rotating Pole
-My personal favorite. A **rotary encoder** tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
+My personal favorite. A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
 
 ### Rune Bell
-A **piezo disk** detects the vibration when the bell is rung. A single LED lights the corresponding rune.
+A piezo disk detects the vibration when the bell is rung. A single LED lights the corresponding rune.
 
-All wiring runs down into the base. Power is split between an external **4× AA battery holder** in the base, which supplies the servos and LEDs, and a USB-C cable that powers the Arduino Nano.
+All wiring runs down into the base. Power is split between an external 4× AA battery holder** in the base, which supplies the servos and LEDs, and a USB-C cable that powers the Arduino Nano.
 
 ## Credits
 
