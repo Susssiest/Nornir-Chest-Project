@@ -54,4 +54,4 @@ https://drive.google.com/file/d/1p0lWug-2twfeMgqFWuvS9LOxBlz-mlpI/view?usp=shari
 
 
 **Note**
-To the hardware request reviewer reading this, please feel free to pick the cheaper options on aliexpress if you can find any.
+To the hardware request reviewer reading this, please feel free to pick the cheaper options, for example, aliexpress, if you can find any.
