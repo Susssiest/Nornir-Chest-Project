@@ -1,3 +1,4 @@
+<img width="1063" height="472" alt="Screenshot 2026-08-13 at 8 28 46 PM" src="https://github.com/user-attachments/assets/495237f5-b1cd-45ff-95cf-04a6efbc3ba1" />
 # Nornir Chest from *God of War Ragnarök*
 
 <img width="1039" height="617" alt="Nornir Chest Photo" src="https://github.com/user-attachments/assets/2d2d0e57-6210-4ed4-a3c7-2934f1b0c908" />
@@ -55,5 +56,6 @@ https://drive.google.com/file/d/1p0lWug-2twfeMgqFWuvS9LOxBlz-mlpI/view?usp=shari
 
 ## BOM
 
-<img width="1067" height="498" alt="Screenshot 2026-08-13 at 8 26 35 PM" src="https://github.com/user-attachments/assets/02ea03f3-0fcf-48e6-9424-cb33a89e7445" />
+<img width="1065" height="474" alt="Screenshot 2026-08-13 at 8 29 21 PM" src="https://github.com/user-attachments/assets/fe943908-84b9-4405-83b5-35a5483f3ba6" />
+
 
