@@ -53,5 +53,7 @@ All wiring runs down into the base. Power is split between an external 4× AA ba
 https://drive.google.com/file/d/1p0lWug-2twfeMgqFWuvS9LOxBlz-mlpI/view?usp=sharing
 
 
-**Note**
-To the hardware request reviewer reading this, please feel free to pick the cheaper options, for example, aliexpress, if you can find any.
+## BOM
+
+<img width="1067" height="498" alt="Screenshot 2026-08-13 at 8 26 35 PM" src="https://github.com/user-attachments/assets/02ea03f3-0fcf-48e6-9424-cb33a89e7445" />
+
