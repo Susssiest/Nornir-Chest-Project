@@ -54,7 +54,7 @@ All wiring runs down into the base. Power is split between an external 4× AA ba
 https://drive.google.com/file/d/1p0lWug-2twfeMgqFWuvS9LOxBlz-mlpI/view?usp=sharing
 
 
-## BOM
+## Updated BOM
 
 <img width="1065" height="474" alt="Screenshot 2026-08-13 at 8 29 21 PM" src="https://github.com/user-attachments/assets/fe943908-84b9-4405-83b5-35a5483f3ba6" />
 
