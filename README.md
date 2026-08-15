@@ -1,7 +1,7 @@
 
 # Nornir Chest from *God of War Ragnarök*
 
-<img width="1039" height="617" alt="Nornir Chest Photo" src="https://github.com/user-attachments/assets/2d2d0e57-6210-4ed4-a3c7-2934f1b0c908" />
+<img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/a11c25b0-e23d-434e-84f5-f1ce79681e36" />
 
 My goal for this project changed a lot over time. At first, I just wanted to make a model of a 3D-printable Nornir Chest with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
 
