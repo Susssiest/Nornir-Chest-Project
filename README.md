@@ -5,7 +5,7 @@
 
 My goal for this project changed a lot over time. At first, I just wanted to make a model of a 3D-printable Nornir Chest with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
 
-I’m new to the world of Arduino, PCBs, soldering, and electronics, but I quickly realized I could incorporate it into my model. In *God of War Ragnarök*, you must activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
+I’m new to the world of Arduino, PCBs, soldering, and electronics, but I quickly realized I could use it into my model. In *God of War Ragnarök*, you have to activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
 
 When a seal is broken, the chest’s corresponding rune flashes white and then stops glowing. Once all three runes are deactivated, the chest can open and you can retrieve the reward.
 
@@ -14,7 +14,7 @@ My model uses several different sensors to imitate the seals, including a **reed
 I also plan to make two additional versions of the model:
 
 - A **fully 3D-printable replica** of the chest with no electronics slots, no base, and no seals, using around 300 g of filament.
-- A **simplified lamp version** that follows my original idea more closely, using only LEDs and batteries for a much less complicated but still attractive build.
+- A **simplified lamp version** that follows my original idea more closely, using only LEDs and batteries for a much less complicated but still fun build.
 
 I’m really happy with how the project turned out, and I’m looking forward to building it if it gets funded.
 
