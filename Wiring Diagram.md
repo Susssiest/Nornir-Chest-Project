@@ -51,5 +51,4 @@ A piezo disk detects vibration when the bell is rung. A dedicated LED lights the
 
 All wires run down through the stand into the base.
 
-
-
+[Pin layout.csv](https://github.com/user-attachments/files/31162670/Pin.layout.csv)
