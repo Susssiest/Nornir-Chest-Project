@@ -118,6 +118,7 @@ All wires run down through the stand into the base.
 ## Updates
 
 - Added a fully 3D-printable version.
+- Will update firmware to fit physical chest wherever needed.
 
 ## Get .blend File Here
 (I'm also a noob to github lol. I can't figure out how to upload large files.)
