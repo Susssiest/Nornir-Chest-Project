@@ -51,21 +51,5 @@ A piezo disk detects vibration when the bell is rung. A dedicated LED lights the
 
 All wires run down through the stand into the base.
 
-| Nano Pin	| Part	                 | Component      |
-|-----------|------------------------|----------------|
-| D2	      | Totem LED 1	           | Rotating Totem |
-| D3	      | Totem LED 2	           | Rotating Totem |
-| D4	      | Totem LED 3	           | Rotating Totem |
-| D5	      | WS2812B LED Ring	     | Brazier        |
-| D6	      | 3× WS2812B LED Rings	 | Chest          |
-| D7	      | Rotary Encoder CLK	   | Rotating Totem |
-| D8	      | Rotary Encoder DT	     | Rotating Totem |
-| D9	      | Servo Left	           | Chest Lock     |
-| D10	      | Servo Right	           | Chest Lock     |
-| D11	      | Rotary Encoder SW      | Rotating Totem |
-| D12	      | Reed Switch	           | Brazier        |
-| D13	      | Bell LED	             | Bell           |
-| A0        | Piezo Disk	           | Bell           |
+<img width="1033" height="736" alt="Wiring Diagram" src="https://github.com/user-attachments/assets/7ee1bbd4-a273-487c-8561-48d0f8c64b1f" />
 
-
-[Pin layout.csv](https://github.com/user-attachments/files/31162670/Pin.layout.csv)
