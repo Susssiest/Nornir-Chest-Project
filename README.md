@@ -8,9 +8,11 @@ This is a 3D printable replica model of the Nornir Chest from God of War Ragnar√
 
 ## The Seals
 
-Brazier - two 7 pixel WS2812B rings, reed switch. Printed gold, black, grey, and blue/transparent PLA.
-Totem Pole - 3 dumb LEDs, rotary encoder. Printed in PLA wood, and blue/transparent PLA.
-Bell - 1 dumb LED, piezo switch. Printed in PLA wood, gold, and blue/transperent PLA.
+Brazier - two 7 pixel WS2812B rings, reed switch. Printed gold, black, grey, and blue/transparent PLA. Uses the reed switch to detect the magnetic Blades of Chaos inserted into the coals, and the LED rings are used as a rune and embers in the fire. The coals are printed with low infill and fewer walls so light can shine through. 
+
+Totem Pole - 3 dumb LEDs, rotary encoder. Printed in PLA wood, and blue/transparent PLA. The rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes. As it rotates, three LEDs on the side of the pole light the correct rune.
+
+Bell - 1 dumb LED, piezo switch. Printed in PLA wood, gold, and blue/transperent PLA. The piezo disk detects vibration when the bell is rung. A dedicated LED lights the rune.
 
 ## The Chest
 
