@@ -1,110 +1,27 @@
 
-# Nornir Chest from *God of War Ragnarök*
+# Nornir Chest from God of War Ragnarök
 
 <img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/a11c25b0-e23d-434e-84f5-f1ce79681e36" />
 
-My goal for this project changed a lot over time. At first, I just wanted to make a model of a Nornir Chest from God of War with LEDs or some kind of light so the runes would glow. But it quickly evolved into something much bigger, and I ended up putting far more work into it than I expected.
+This is a 3D printable replica model of the Nornir Chest from God of War Ragnarök. My final version uses a variety of electronics to simulate the way the chest works in the game. In God Of War, Nornir Chests are puzzles found throughout the map that use their environments to hide and disguise the activators, or seals. There are 4 types of seals, totem poles, braziers, bells, and viking statues. They each have different activation methods, and each are tied to different runes on the chest. When a seal is activated, the rune on it flashes and disappears, and the corrisponding rune on the chest does the same. I currently have two versions of the chest, a fully printable version, and a fully electronic version with seals.
 
-I’m new to using pcbs and devboards, but I quickly realized I could implement it into my model. In *God of War Ragnarök*, you have to activate three seals to unlock the chest. There are four seal types in the game: a brazier that activates when set on fire, a bell that activates when rung, a pole that unlocks when rotated correctly, and a statue that activates when it breaks.
+## The Seals
 
-When a seal is broken, the chest’s corresponding rune flashes white and then stops glowing. Once all three runes are deactivated, the chest can open and you can retrieve the reward.
+Brazier - two 7 pixel WS2812B rings, reed switch. Printed gold, black, grey, and blue/transparent PLA.
+Totem Pole - 3 dumb LEDs, rotary encoder. Printed in PLA wood, and blue/transparent PLA.
+Bell - 1 dumb LED, piezo switch. Printed in PLA wood, gold, and blue/transperent PLA.
 
-My model uses several different sensors to imitate the seals, including a **reed switch**, a **rotary encoder**, and a **piezo disk**. The chest itself has **LED rings** inside the rune slots and **two servos** to lock it. The model will be 3D printed in multiple colors and will use around 1.5 kg of filamenT.
+## The Chest
 
-I also plan to make two additional versions of the model:
+The chest uses three 7 pixel WS2812B rings and a servo. The servos turn 90 degrees to lock/unlock the chest, and the LEDs cover the runes. It is hinged, and is printed in multiple parts to avoid changes between the gold, black, grey, and blue/transparent PLA. Any parts that would otherwise be glued are connected via pins.
 
-- A **fully 3D-printable replica** of the chest with no electronics slots, no base, and no seals, using around 300 g of filament.
-- A **simplified lamp version** that follows my original idea more closely, using only LEDs and batteries for a much less complicated but still fun build.
+## The Base
 
-I’m really happy with how the project turned out, and I’m looking forward to building it if it gets funded.
+The rocky base is not only a cool base for the chest, it acts as a hub for the electronics. I made room for a breadboard for beginners (like me lol), an Arduino Nano, and a battery pack. All wires go through holes, and they will have some supports in them when you pull them out. I suggest using a paper clip to stick it in and push all of the supports out, it shouldn't be too hard.
 
-## Electronics
+## Printing
 
-This project uses a variety of electronics to recreate the Nornir Chest mechanics from *God of War Ragnarök*. Since I’m still relatively new to microcontrollers, I will be using a breadboard.
-
-The breadboard sits inside the base, next to mounts for the battery pack and an **Arduino Nano**. The chest itself contains three **WS2812B LED rings** with 7 pixels each, one in each rune slot, plus two servos — one on each side — that keep the lid locked closed.
-
-## Seals
-
-### Brazier
-The most complex seal. A reed switch detects the magnetic *Blades of Chaos* when they are inserted into a hole in the coals. An LED ring sits just below the reed switch and glows red when the seal is activated. The coals are printed with low infill and fewer wall loops so light can shine through. A separate LED ring illuminates the corresponding rune on the chest.
-
-### Rotating Pole
-My personal favorite. A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes printed on three sides. As the pole turns, the correct rune faces forward and is illuminated by three LEDs mounted on the side of the pole.
-
-### Rune Bell
-A piezo disk detects the vibration when the bell is rung. A single LED lights the corresponding rune.
-
-All wiring runs down into the base. Power is split between an external 4× AA battery holder** in the base, which supplies the servos and LEDs, and a USB-C cable that powers the Arduino Nano.
-
-## Project Electronics Overview
-
-In *God of War Ragnarök*, Nornir Chests are unlocked by activating three seals. There are four types of seals in the game:
-
-- **Brazier** – activated by being set on fire  
-- **Bell** – activated when rung
-- **Rotating Totem** – activated by being rotated to the correct position  
-- **Statue** – activated by being broken 
-
-When a seal is activated, the corresponding rune on the chest flashes and then stops glowing. Once all three runes are deactivated, the chest unlocks.
-
-This model recreates the in game experience using real sensors and electronics.
-
-### Planned Versions
-
-| Version              | Description                                      | Approx. Filament |
-|----------------------|--------------------------------------------------|------------------|
-| **Full Interactive** | Sensors, LEDs, servos, Arduino                   | ~1.5 kg         |
-| **Pure Print**       | No electronics, no base or seals – pure replica  | ~300 g          |
-| **Lamp Version**     | Simplified version with LEDs + batteries only    | Lightweight     |
-
----
-
-## Base
-
-The breadboard, Arduino Nano, and battery pack all sit inside the base.
-
-### Main Components
-
-- **Arduino Nano** (powered via USB-C)
-- **4× WS2812B LED rings** (7 LEDs each) – one in each chest rune slot, and 2 in brazier
-- **2× Servos** – lock the lid
-- **Rotary encoder** – rotating totem
-- **Reed switch** – brazier (detects magnetic Blades of Chaos)
-- **Piezo disk** – tracks bell vibration
-- **3× single LEDs** – illuminate the runes on the totem
-- **1× single LED** – illuminates the rune on the bell
-- **4× AA battery pack** – powers all LEDs and servos
-
-### Seal Details
-
-**Brazier**  
-Uses a reed switch to detect the magnetic Blades of Chaos inserted into the coals. An LED ring under the reed switch glows red when activated. The coals are printed with low infill and fewer walls so light can shine through. An led ring is also mounted further down in the base to illuminate the rune.
-
-**Rotating Totem**  
-A rotary encoder tracks the rotation of the pole. The pole is connected to a hollow cylinder with three different runes. As it rotates, three LEDs on the side of the pole light the correct rune.
-
-**Bell**  
-A piezo disk detects vibration when the bell is rung. A dedicated LED lights the corresponding rune.
-
-All wires run down through the stand into the base.
-
-| Nano Pin	| Part	                 | Component      |
-|-----------|------------------------|----------------|
-| D2	      | Totem LED 1	           | Rotating Totem |
-| D3	      | Totem LED 2	           | Rotating Totem |
-| D4	      | Totem LED 3	           | Rotating Totem |
-| D5	      | WS2812B LED Ring	     | Brazier        |
-| D6	      | 3× WS2812B LED Rings	 | Chest          |
-| D7	      | Rotary Encoder CLK	   | Rotating Totem |
-| D8	      | Rotary Encoder DT	     | Rotating Totem |
-| D9	      | Servo Left	           | Chest Lock     |
-| D10	      | Servo Right	           | Chest Lock     |
-| D11	      | Rotary Encoder SW      | Rotating Totem |
-| D12	      | Reed Switch	           | Brazier        |
-| D13	      | Bell LED	             | Bell           |
-| A0        | Piezo Disk	           | Bell           |
-
+The chest uses 5 filaments, mostly Sunlu and Bambu Labs. I printed some parts with a 0.2 mm nozzle, such as the hinges, viking head, runes, etc, to preserve small details and improve the accuracy of the prints. I also changed the speed and infill on some parts, for example, the runes are printed in 100% infill grey to let light only through the rune hole, and not be visible through the plastic. I always used glue, and I used a cheap smooth PEI plate I found on amazon.
 
 [Pin layout.csv](https://github.com/user-attachments/files/31162670/Pin.layout.csv)
 
@@ -113,7 +30,7 @@ All wires run down through the stand into the base.
 - [Blades of Chaos fridge magnet](https://makerworld.com/en/models/3068479-blades-of-chaos-fridge-magnet#profileId-3454054) — Used as the magnetic Blades of Chaos inserted into the brazier. It is meant to be a fridge magnet.
 - [Stone formation base](https://makerworld.com/en/models/2541501-stoneformation-15?from=search#profileId-2798135) — This is the rocky base I used. I modified it to have a central port for all the electronics and indents to connect the chest and three seals.
 - [HW-040 module case housing enclosure](https://makerworld.com/en/models/1896813-hw-040-module-case-housing-enclosure?from=search#profileId-2032305) — This is the enclosure I used for the rotary encoder.
-- [Print-in-place hinge set](https://makerworld.com/en/models/791901-print-in-place-hinge-set?from=search#profileId-730453) — This is the hinge I used. I modified it to have extruded pins and be much smaller.
+- [Print-in-PLAce hinge set](https://makerworld.com/en/models/791901-print-in-PLAce-hinge-set?from=search#profileId-730453) — This is the hinge I used. I modified it to have extruded pins and be much smaller.
 
 ## Updates
 
