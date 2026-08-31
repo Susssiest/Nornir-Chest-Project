@@ -3,6 +3,7 @@
 
 <img width="1240" height="755" alt="Whole Project" src="https://github.com/user-attachments/assets/a11c25b0-e23d-434e-84f5-f1ce79681e36" />
 
+
 This is a 3D printable replica model of the Nornir Chest from God of War Ragnarök. My final version uses a variety of electronics to simulate the way the chest works in the game. In God Of War, Nornir Chests are puzzles found throughout the map that use their environments to hide and disguise the activators, or seals. There are 4 types of seals, totem poles, braziers, bells, and viking statues. They each have different activation methods, and each are tied to different runes on the chest. When a seal is activated, the rune on it flashes and disappears, and the corrisponding rune on the chest does the same. I currently have two versions of the chest, a fully printable version, and a fully electronic version with seals.
 
 ## The Seals
