@@ -24,7 +24,7 @@ The rocky base is not only a cool base for the chest, it acts as a hub for the e
 
 The chest uses 5 filaments, mostly Sunlu and Bambu Labs. I printed some parts with a 0.2 mm nozzle, such as the hinges, viking head, runes, etc, to preserve small details and improve the accuracy of the prints. I also changed the speed and infill on some parts, for example, the runes are printed in 100% infill grey to let light only through the rune hole, and not be visible through the plastic. I always used glue, and I used a cheap smooth PEI plate I found on amazon.
 
-[Pin layout.csv](https://github.com/user-attachments/files/31162670/Pin.layout.csv)
+<img width="1033" height="736" alt="643023963-7ee1bbd4-a273-487c-8561-48d0f8c64b1f" src="https://github.com/user-attachments/assets/9b3736a6-3aa7-4716-aa32-bee3e0b0c26f" />
 
 ## Credits
 
