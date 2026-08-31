@@ -28,6 +28,18 @@ The chest uses 5 filaments, mostly Sunlu and Bambu Labs. I printed some parts wi
 
 <img width="1033" height="736" alt="643023963-7ee1bbd4-a273-487c-8561-48d0f8c64b1f" src="https://github.com/user-attachments/assets/9b3736a6-3aa7-4716-aa32-bee3e0b0c26f" />
 
+### All Components 
+
+- Arduino Nano (powered via USB-C)
+- 4× WS2812B LED rings (7 LEDs each) – one in each chest rune slot, and 2 in brazier
+- 2× Servos – lock the lid
+- Rotary encoder – rotating totem
+- Reed switch – brazier (detects magnetic Blades of Chaos)
+- Piezo disk – tracks bell vibration
+- 3× single LEDs – illuminate the runes on the totem
+- 1× single LED – illuminates the rune on the bell
+- 4× AA battery pack – powers all LEDs and servos
+
 ## Credits
 
 - [Blades of Chaos fridge magnet](https://makerworld.com/en/models/3068479-blades-of-chaos-fridge-magnet#profileId-3454054) — Used as the magnetic Blades of Chaos inserted into the brazier. It is meant to be a fridge magnet.
