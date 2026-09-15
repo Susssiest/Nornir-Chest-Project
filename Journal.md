@@ -1,5 +1,6 @@
 # Journal
-NOTE: I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago.". This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there. The dates are estimations.
+
+PLEASE NOTE: I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago.". This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there. The dates are estimations.
 
 ## June 29th: Worked on basic CAD on shell.
 
@@ -43,7 +44,7 @@ It locks now! Will be using mg90 servos that turn 90 degrees, making the lid una
 
 **Total time spent: 1.5 hours**
 
-Added a new gold engraving. It has kind of a loopy pattern, spent forever using curves to get it right, fits into holes in chest.
+Added a new gold engraving. It has kind of a loopy pattern, spent forever using curves to get it right, fits into holes in chest. Used multiple tutorials and I think I redid it maybe 4 times.
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/f2f1719c-086d-4cb5-9dcf-881752d552f4" />
 
@@ -60,5 +61,66 @@ Spent some time making a boulder for the seals to sit on, but then I kind of gav
 The chest has a base now! The base is so big it has to split into fourths to fit on the printer bed 😂. It is ~700 grams. I also added indents in it that will fit a breadboard, battery pack, and wires. I’m going to be using a nano on the breadboard. I could just stuff all the electronics in the chest, but then i wouldnt be able to fir anything inside, so I’m just doing this. I also think it looks awesome and I need to add some of the puzzles that unlock the chest around it, so the base is perfect. Got the base off of makerworld - https://makerworld.com/en/models/2679972-rocky-base-plateau#profileId-2967898
 
 <img width="1376" height="900" alt="image" src="https://github.com/user-attachments/assets/65e83a73-5382-474e-8d37-a22a920ac94a" />
+
+## July 21st
+
+I’m adding a little brazier with a led rune that will turn off when activated, and send a signal to the chest to also turn off one of the lights. Once three runes are activated the chest’s servos will activate and it will be able to open. Almost done with brazier, need to add some more coal on the top.
+
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/9374910f-5d93-47f0-98b3-e16e327c3e1d" />
+
+## July 22nd
+
+Added reed switch to brazier, I downloaded a nice blades of chaos fridge magnet, that can be inserted into the top. So hopefully when the magnetic blade gets inserted the reed switch will activate and send a signal to the arduino.
+
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/743cbc9e-7c93-4fdc-a976-511ad9d6b680" />
+
+## July 23rd - 25th
+
+I’m choosing to use a different base, it just looks cooler, and also the other base had all these random strings of internal vertices. Also worked a little on the spinning rune activator/totem.
+
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/07f55d3f-79b4-4c10-8b4a-88c28d9c444e" />
+
+## July 25th - 28th
+
+Done with both brazier and spinning totem! On to rune rock and then wire paths and electronics.
+
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/6e49677d-fa0e-43a1-ae84-85aafeb17ac2" />
+
+## July 29th - August 4th
+
+Done with everything! I decided to do the bell instead of rune rock because I realized it wasn’t actually a rock, it was a statue, and I don’t want to spend 2 hours sculpting it. Prepping it in bambu studio, almost ready to start printing! Attached photo of statue to show you what I mean.
+
+<img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/c8f6eaea-de8f-4f76-886d-58db5e0981f2" />
+
+## August 6th
+
+Printed base, supports are way to crazy and areas are too weak, tweaking and reprinting. Also starting to add some more work to the bambu studio portion of the project.
+
+<img width="1357" height="900" alt="image" src="https://github.com/user-attachments/assets/53f23290-6fc7-4e32-a2c3-de204ef8d0d6" />
+
+## August 7th
+
+Almost done with Bambu Studio. Putting together files for a fully 3d printable model too, no electronics, no base.
+
+<img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/86a96229-b96b-4e89-806e-e5add6df3912" />
+
+## August 12th
+
+I’m submitting this for funding! I am broke and cant pay for the electronics lol. I also printed out a few parts. It needs a little post prosessing but looks great!
+
+<img width="1411" height="794" alt="Screenshot 2026-09-15 at 4 40 39 PM" src="https://github.com/user-attachments/assets/8d42e234-078b-4498-9e1c-228350df8d18" />
+
+## August 25th
+
+Finally printed all of the print only parts! Looks awesome. Still waiting on electronics.
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6c5a330d-e2b8-408b-8baa-a4b84438a189" />
+
+## September 27th
+
+Worked on firmware and updated BOM. also posted on makerworld! https://makerworld.com/en/models/3198743-god-of-war-nornir-chest-hinged-lid-no-ams#profileId-3619555
+
+<img width="1585" height="900" alt="image" src="https://github.com/user-attachments/assets/c54d291f-a99a-41ed-bbde-90641f1f0719" />
+
 
 
