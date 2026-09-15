@@ -1,6 +1,11 @@
 # Journal
 
-PLEASE NOTE: I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago.". This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there. The dates are estimations.
+PLEASE NOTE: 
+
+- I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago." for some reason, pretty annoying. The dates are estimations.
+- This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there.
+- This was stardance, and I was a noob, so my devlogs are super short, and I switched between working on lots of different aspects of project, so I might work for 40 minutes on the main thing mainly go over, but spend another 2 hours polishing up a bunch of other stuff.
+- I worked on this 3 MONTHS AGO, I barely remember my workflow, I've tried to add a little more details, but pls be forgiving on awful devlogs.
 
 ## June 29th: Worked on basic CAD on shell.
 
@@ -52,7 +57,7 @@ Added a new gold engraving. It has kind of a loopy pattern, spent forever using 
 
 ## July 18th
 
-Spent some time making a boulder for the seals to sit on, but then I kind of gave up and realized it was ugly lol. NOTE: (written when transferring to forge, way after dev logs where written, I logged 2.5 hours, but worked on many different things, I don't remember too well, but I'm estimating I spent maybe 40 minutes on boulder, and spent the rest polishing up gold engraving.)
+Spent some time making a boulder for the seals to sit on, but then I kind of gave up and realized it was ugly lol.
 
 <img width="1516" height="900" alt="image" src="https://github.com/user-attachments/assets/e2f57eac-5044-4398-9798-89108c6a43f3" />
 
