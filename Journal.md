@@ -1,6 +1,6 @@
 # Journal
 
-PLEASE NOTE: 
+**PLEASE NOTE: **
 
 - I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago." for some reason, pretty annoying. The dates are estimations.
 - This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there.
