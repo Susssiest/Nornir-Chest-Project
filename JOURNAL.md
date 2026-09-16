@@ -14,7 +14,7 @@ Started building my 3d printable Nornir Chest from God Of War. Just basic caddin
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/a1aaf679-bff1-4115-83ef-ce7ab9e6f0f6" />
 
-**Total time spent: 1h, 25m**
+**Total time spent: 1h 25m**
 
 ## June 30th - July 4th: 
 
@@ -22,7 +22,7 @@ Spent forever working on dragon corners, many revisions, restarted multiple time
 
 <img width="1385" height="900" alt="image" src="https://github.com/user-attachments/assets/ed547482-2f74-4202-a122-ba4145cb939f" />
 
-**Total time spent: 8h, 32m**
+**Total time spent: 8h 32m**
 
 ## July 6th - 8th
 
@@ -30,7 +30,7 @@ Added hinges and a gold engraving on the top of the lid. Looks great, moving on 
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/154adc2b-76bc-4b9c-af1c-24ca698e6a80" />
 
-**Total time spent: 1.16 hours**
+**Total time spent: 1h 10m hours**
 
 ## July 9th - 12th 
 
@@ -38,7 +38,7 @@ Added runes! Looks great. Going to be using WS2812B Led rings, and I’m going t
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/93fec6d2-85e1-486b-aba3-f3a8e93b22cc" />
 
-**Total time spent: 3 hours**
+**Total time spent: 2h 59m**
 
 ## July 12th - 14th 
 
@@ -46,7 +46,7 @@ It locks now! Will be using mg90 servos that turn 90 degrees, making the lid una
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/db00e1df-b42f-4cb2-943e-9b3e47de9ac0" />
 
-**Total time spent: 1.83 hours**
+**Total time spent: 1h 47m**
  
 ## July 15th - 17th 
 
@@ -54,7 +54,7 @@ Added a new gold engraving. It has kind of a loopy pattern, spent forever using 
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/f2f1719c-086d-4cb5-9dcf-881752d552f4" />
 
-**Total time spent: 1.5 hours**
+**Total time spent: 1h 31m**
 
 ## July 18th
 
@@ -62,7 +62,7 @@ Spent some time making a boulder for the seals to sit on, but then I kind of gav
 
 <img width="1516" height="900" alt="image" src="https://github.com/user-attachments/assets/e2f57eac-5044-4398-9798-89108c6a43f3" />
 
-**Total time spent: 2.5 hours**
+**Total time spent: 2h 47m**
 
 ## July 19th - 21st
 
@@ -70,7 +70,7 @@ The chest has a base now! The base is so big it has to split into fourths to fit
 
 <img width="1376" height="900" alt="image" src="https://github.com/user-attachments/assets/65e83a73-5382-474e-8d37-a22a920ac94a" />
 
-**Total time spent: 4.16 hours**
+**Total time spent: 4h 12m**
  
 ## July 21st
 
@@ -86,7 +86,7 @@ Added reed switch to brazier, I downloaded a nice blades of chaos fridge magnet,
 
 <img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/743cbc9e-7c93-4fdc-a976-511ad9d6b680" />
 
-**Total time spent: 1 hours**
+**Total time spent: 52m**
  
 ## July 23rd - 25th
 
@@ -94,7 +94,7 @@ I’m choosing to use a different base, it just looks cooler, and also the other
 
 <img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/07f55d3f-79b4-4c10-8b4a-88c28d9c444e" />
 
-**Total time spent: 3.66 hours**
+**Total time spent: 3h 38m**
  
 ## July 25th - 28th
 
@@ -102,7 +102,7 @@ Done with both brazier and spinning totem! On to rune rock and then wire paths a
 
 <img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/6e49677d-fa0e-43a1-ae84-85aafeb17ac2" />
 
-**Total time spent: 0.833 hours**
+**Total time spent: 46m**
  
 ## July 29th - August 4th
 
@@ -110,7 +110,7 @@ Done with everything! I decided to do the bell instead of rune rock because I re
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/c8f6eaea-de8f-4f76-886d-58db5e0981f2" />
 
-**Total time spent: 8.5 hours**
+**Total time spent: 8h 30m**
  
 ## August 6th
 
@@ -118,7 +118,7 @@ Printed base, supports are way to crazy and areas are too weak, tweaking and rep
 
 <img width="1357" height="900" alt="image" src="https://github.com/user-attachments/assets/53f23290-6fc7-4e32-a2c3-de204ef8d0d6" />
 
-**Total time spent: 1.16 hours**
+**Total time spent: 1h 13m**
  
 ## August 7th
 
@@ -126,7 +126,7 @@ Almost done with Bambu Studio. Putting together files for a fully 3d printable m
 
 <img width="1433" height="900" alt="image" src="https://github.com/user-attachments/assets/86a96229-b96b-4e89-806e-e5add6df3912" />
 
-**Total time spent: 0.5 hours**
+**Total time spent: 25m**
  
 ## August 12th
 
@@ -134,7 +134,7 @@ I’m submitting this for funding! I am broke and cant pay for the electronics l
 
 <img width="1411" height="794" alt="Screenshot 2026-09-15 at 4 40 39 PM" src="https://github.com/user-attachments/assets/8d42e234-078b-4498-9e1c-228350df8d18" />
 
-**Total time spent: 0.2 hours**
+**Total time spent: 17m**
  
 ## August 25th
 
@@ -142,7 +142,7 @@ Finally printed all of the print only parts! Looks awesome. Still waiting on ele
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6c5a330d-e2b8-408b-8baa-a4b84438a189" />
 
-**Total time spent: 0.2 hours**
+**Total time spent: 19m**
  
 ## August 27th
 
@@ -150,7 +150,7 @@ Worked on firmware and updated BOM. also posted on makerworld! https://makerworl
 
 <img width="1585" height="900" alt="image" src="https://github.com/user-attachments/assets/c54d291f-a99a-41ed-bbde-90641f1f0719" />
 
-**Total time spent: 1.16 hours**
+**Total time spent: 1h 4m**
  
 
 
