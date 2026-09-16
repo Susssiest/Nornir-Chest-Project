@@ -167,3 +167,9 @@ All parts came! Spent 2 minutes pulling in package i guess lol. Gonna start work
 <img width="1085" height="812" alt="Screenshot 2026-09-15 at 5 18 21 PM" src="https://github.com/user-attachments/assets/95070504-3a8a-4fad-a682-9450ac3fc771" />
 
 **Total time spent: 2m**
+
+## September 16th
+
+Printed and removed all supports of 1/4 of the base. My stupid ass didn't record the first 5 minutes of support removal, and in the three visible frames I'm holding the base out of the cameras line of sight.
+
+**Total time spent: 10m**
