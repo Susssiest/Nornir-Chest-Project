@@ -152,5 +152,10 @@ Worked on firmware and updated BOM. also posted on makerworld! https://makerworl
 
 **Total time spent: 1h 4m**
  
+## September 10th
 
+Made a cheap lamp version using a kit from bambu labs, posted on makerworld. https://makerworld.com/en/models/3271930-god-of-war-nornir-chest-lamp-edition#profileId-3710162
 
+<img width="1468" height="872" alt="Screenshot 2026-09-15 at 5 11 46 PM" src="https://github.com/user-attachments/assets/918de6e9-dd0d-463f-b2c6-a8ac595b1285" />
+
+**Total time spent: 1h 16m**
