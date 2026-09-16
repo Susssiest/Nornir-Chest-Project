@@ -159,3 +159,11 @@ Made a cheap lamp version using a kit from bambu labs, posted on makerworld. htt
 <img width="1468" height="872" alt="Screenshot 2026-09-15 at 5 11 46 PM" src="https://github.com/user-attachments/assets/918de6e9-dd0d-463f-b2c6-a8ac595b1285" />
 
 **Total time spent: 1h 16m**
+
+## September 14th
+
+All parts came! Spent 2 minutes pulling in package i guess lol. Gonna start working on final build.
+
+<img width="1085" height="812" alt="Screenshot 2026-09-15 at 5 18 21 PM" src="https://github.com/user-attachments/assets/95070504-3a8a-4fad-a682-9450ac3fc771" />
+
+**Total time spent: 2m**
