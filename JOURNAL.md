@@ -14,7 +14,7 @@ Started building my 3d printable Nornir Chest from God Of War. Just basic caddin
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/a1aaf679-bff1-4115-83ef-ce7ab9e6f0f6" />
 
-**Total time spent: 1.5 hours**
+**Total time spent: 1h, 25m**
 
 ## June 30th - July 4th: 
 
@@ -22,7 +22,7 @@ Spent forever working on dragon corners, many revisions, restarted multiple time
 
 <img width="1385" height="900" alt="image" src="https://github.com/user-attachments/assets/ed547482-2f74-4202-a122-ba4145cb939f" />
 
-**Total time spent: 7.2 hours**
+**Total time spent: 8h, 32m**
 
 ## July 6th - 8th
 
