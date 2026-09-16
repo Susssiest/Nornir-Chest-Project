@@ -30,7 +30,7 @@ Added hinges and a gold engraving on the top of the lid. Looks great, moving on 
 
 <img width="1384" height="900" alt="image" src="https://github.com/user-attachments/assets/154adc2b-76bc-4b9c-af1c-24ca698e6a80" />
 
-**Total time spent: 1h 10m hours**
+**Total time spent: 1h 10m **
 
 ## July 9th - 12th 
 
