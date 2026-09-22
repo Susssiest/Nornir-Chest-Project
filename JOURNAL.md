@@ -183,3 +183,11 @@ Soldered on pin headers to the nano, dupont connectors to the battery holder, an
 <img width="1098" height="811" alt="Screenshot 2026-09-21 at 6 56 41 PM" src="https://github.com/user-attachments/assets/82d5b9b9-a63a-496c-8402-9eca40565aab" />
 
 **Total time spent: 1h 2m**
+
+## September 22nd
+
+Connected LEDs to nano, they work great. I'm really happy with how they came out. I'm going to work out the firmware to make it glow/ flicker blue. Also temporarily duct taped everything. I have settled on soldering everything together after I am out of the prototyping phase.
+
+<img width="1075" height="801" alt="Screenshot 2026-09-22 at 10 12 33 AM" src="https://github.com/user-attachments/assets/ddd923e2-5c63-4105-ad26-56fb5bf06610" />
+
+**Total time spent: 30 m**
