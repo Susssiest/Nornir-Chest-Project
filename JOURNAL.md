@@ -2,11 +2,11 @@
 
 **PLEASE NOTE:**
 
+- Project was moved from stardance to forge.
 - I can't find actual dates I worked on projects, lapse gives me an estimate, like "3 months ago." for some reason, pretty annoying. The dates are estimations.
 - This project was moved from stardance to forge, and the journals are just copied and pasted devlogs with some added details here and there.
 - This was stardance, and I was a noob, so my devlogs are super short, and I switched between working on lots of different aspects of project, so I might log 2 hours 40 minutes and work for 40 minutes on the main thing and go over it in devlog, but spend another 2 hours polishing up a bunch of other stuff.
-- I worked on this 3 MONTHS AGO, I barely remember my workflow, I've tried to add a little more details, but pls be forgiving on awful devlogs.
-- Journal logs include the time spent data from my devlogs on stardance rounded to the closest ten minutes because I like using decimal hours for some reason. Please tally my credits using the total lapse amount logged.
+- I worked on this 3 months ago, I barely remember my workflow, I've tried to add a little more details, but pls be forgiving on awful devlogs.
 
 ## June 29th: Worked on basic CAD on shell.
 
@@ -175,3 +175,11 @@ Printed and removed all supports of 1/4 of the base. My stupid ass didn't record
 <img width="1083" height="809" alt="Screenshot 2026-09-16 at 4 24 35 PM" src="https://github.com/user-attachments/assets/2bdbb8b2-c338-4a90-9c18-28e79d98a7d1" />
 
 **Total time spent: 10m**
+
+## September 21st
+
+Soldered on pin headers to the nano, dupont connectors to the battery holder, and looped all the leds.
+
+<img width="1098" height="811" alt="Screenshot 2026-09-21 at 6 56 41 PM" src="https://github.com/user-attachments/assets/82d5b9b9-a63a-496c-8402-9eca40565aab" />
+
+**Total time spent: 1h 2m**
