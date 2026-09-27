@@ -213,3 +213,9 @@ Printed out new parts, replaced them, and tested. I had a pretty easy time print
 <img width="360" height="552" alt="Pi7_GIF_CMP-ezgif com-crop" src="https://github.com/user-attachments/assets/431647f8-a3a1-4614-984c-190e568b3d53" />
 
 **Total time spent: 1 hour**
+
+## September 27th
+
+Spent like 3 hours trying to solder wire to a tiny led strip. Accidentally bought 2.5mm instead of 5mm. I wasted like 30 mm of wire. The strip has an adhesive on the bottom that prevents solder to sticking on pads so I ended up just covering the led strip with burnt glue and solder without actually making any connections. The diode leds i ordered dont work as well, they all came with messed up internals, I can see the metal parts inside are way too close togther.
+
+**Total time spent: 3 hour**
