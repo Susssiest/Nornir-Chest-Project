@@ -191,3 +191,25 @@ Connected LEDs to nano, they work great. I'm really happy with how they came out
 <img width="1075" height="801" alt="Screenshot 2026-09-22 at 10 12 33 AM" src="https://github.com/user-attachments/assets/ddd923e2-5c63-4105-ad26-56fb5bf06610" />
 
 **Total time spent: 30 m**
+
+## September 25th
+
+Tested servos, current lid locking system is really bad, servo arm doesnt even fit in the space I made for it. Changed lid to have an extruding handle thing that will be blocked by servo arms. 
+
+**Total time spent: 1 hour**
+
+## September 25th
+
+Tested servos, current lid locking system is really bad, servo arm doesnt even fit in the space I made for it. Changed lid to have an extruding handle thing that will be blocked by servo arms. 
+
+<img width="614" height="484" alt="Screenshot 2026-09-26 at 6 01 42 PM" src="https://github.com/user-attachments/assets/f4163600-520f-4ab0-868a-dc0a20e1d4b1" />
+
+**Total time spent: 1 hour**
+
+## September 26th
+
+Printed out new parts, replaced them, and tested. I had a pretty easy time printing everything, took out old servo holders and added new ones. The lid did kind of lock, but I was able to lift the lid up maybe two centimeters. Decreased the tolerance in the lid handle things by wrapping duct tape around it. Added switch to open and close servos and uploaded new testing code. It works! I'm actually really happy with how it came out! Will start testing brazier tommorow.
+
+
+
+
