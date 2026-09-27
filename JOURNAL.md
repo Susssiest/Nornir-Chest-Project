@@ -210,6 +210,6 @@ Tested servos, current lid locking system is really bad, servo arm doesnt even f
 
 Printed out new parts, replaced them, and tested. I had a pretty easy time printing everything, took out old servo holders and added new ones. The lid did kind of lock, but I was able to lift the lid up maybe two centimeters. Decreased the tolerance in the lid handle things by wrapping duct tape around it. Added switch to open and close servos and uploaded new testing code. It works! I'm actually really happy with how it came out! Will start testing brazier tommorow.
 
-/Users/andrewposner/Downloads/IMG_2258 (1).gif
+<img width="360" height="552" alt="Pi7_GIF_CMP-ezgif com-crop" src="https://github.com/user-attachments/assets/431647f8-a3a1-4614-984c-190e568b3d53" />
 
 **Total time spent: 1 hour**
