@@ -218,10 +218,14 @@ Printed out new parts, replaced them, and tested. I had a pretty easy time print
 
 Spent like 3 hours trying to solder wire to a tiny led strip. Accidentally bought 2.5mm instead of 5mm. I wasted like 30 mm of wire. The strip has an adhesive on the bottom that prevents solder to sticking on pads so I ended up just covering the led strip with burnt glue and solder without actually making any connections. The diode leds i ordered dont work as well, they all came with messed up internals, I can see the metal parts inside are way too close togther.
 
+<img width="189" height="151" alt="Screenshot 2026-10-03 at 9 10 33 AM" src="https://github.com/user-attachments/assets/b5b5ec1f-2fb8-4456-a7cd-89e8a13928f5" />
+
 **Total time spent: 3 hours**
 
 ## September 29th
 
 I took a portion of a bigger led strip from school because the one I own is way too hard to solder. I accidentally soldered the wires onto the DOUT side, and after 40 minutes of playing with arduino ide and switching between micrcontrollers, I finally decided to check the soldering a little closer, and realized I had soldered it on wrong. So I soldered it on correctly, and tested the leds, and they worked. Then I stuffed it into the pole and broke it accidentally. And then I decided to just gave up for the day for some reason.
+
+<img width="608" height="805" alt="Screenshot 2026-10-03 at 9 11 07 AM" src="https://github.com/user-attachments/assets/fbea3bd4-a1b1-42ad-b04d-493e48b5ea0d" />
 
 **Total time spent: 2 hours**
