@@ -8,7 +8,7 @@
 - This was stardance, and I was a noob, so my devlogs are super short, and I switched between working on lots of different aspects of project, so I might log 2 hours 40 minutes and work for 40 minutes on the main thing and go over it in devlog, but spend another 2 hours polishing up a bunch of other stuff.
 - I worked on this 3 months ago, I barely remember my workflow, I've tried to add a little more details, but pls be forgiving on awful devlogs.
 
-## June 29th: Worked on basic CAD on shell.
+## Worked on basic CAD on shell.
 
 Started building my 3d printable Nornir Chest from God Of War. Just basic cadding, adding details like bevels, electronic holes, and runes later. Only cadded base chest, haven't started on lid or like hinges yet.
 
@@ -16,7 +16,7 @@ Started building my 3d printable Nornir Chest from God Of War. Just basic caddin
 
 **Total time spent: 1h 25m**
 
-## June 30th - July 4th: 
+## Worked on dragon corners 
 
 Spent forever working on dragon corners, many revisions, restarted multiple times. Tried using cylinders, didn't work, tried using curves, kinda worked, eventually settled on a really low poly model because it prints tiny.
 
@@ -24,7 +24,7 @@ Spent forever working on dragon corners, many revisions, restarted multiple time
 
 **Total time spent: 8h 32m**
 
-## July 6th - 8th
+## Added hinges and engravings
 
 Added hinges and a gold engraving on the top of the lid. Looks great, moving on to head and leds for runes. Hinges print seperately and are inserted into pin holes, and are print in place, going to use 0.2mm nozzle because of how small they are. Gold engraving fits on the top and also is printed seperately.
 
@@ -32,7 +32,7 @@ Added hinges and a gold engraving on the top of the lid. Looks great, moving on 
 
 **Total time spent: 1h 10m **
 
-## July 9th - 12th 
+## Runes
 
 Added runes! Looks great. Going to be using WS2812B Led rings, and I’m going to 3d print a cover thing for it that will disperse the lighting as it only has 7 leds per ring. 3 different runes, inserted into 3 different holes in chest.
 
@@ -40,7 +40,7 @@ Added runes! Looks great. Going to be using WS2812B Led rings, and I’m going t
 
 **Total time spent: 2h 59m**
 
-## July 12th - 14th 
+## Made MG90 Locking mechanism
 
 It locks now! Will be using mg90 servos that turn 90 degrees, making the lid unable to open. Lid will have two holes on either sides with small covers that allow servo arm to fly over, but get stuck when lifted, because servo arm is in its way.
 
@@ -48,7 +48,7 @@ It locks now! Will be using mg90 servos that turn 90 degrees, making the lid una
 
 **Total time spent: 1h 47m**
  
-## July 15th - 17th 
+## New gold engraving
 
 Added a new gold engraving. It has kind of a loopy pattern, spent forever using curves to get it right, fits into holes in chest. Used multiple tutorials and I think I redid it maybe 4 times.
 
@@ -56,7 +56,7 @@ Added a new gold engraving. It has kind of a loopy pattern, spent forever using 
 
 **Total time spent: 1h 31m**
 
-## July 18th
+## Made boulder and then gave up.
 
 Spent some time making a boulder for the seals to sit on, but then I kind of gave up and realized it was ugly lol.
 
@@ -64,7 +64,7 @@ Spent some time making a boulder for the seals to sit on, but then I kind of gav
 
 **Total time spent: 2h 47m**
 
-## July 19th - 21st
+## Chest base
 
 The chest has a base now! The base is so big it has to split into fourths to fit on the printer bed 😂. It is ~700 grams. I also added indents in it that will fit a breadboard, battery pack, and wires. I’m going to be using a nano on the breadboard. I could just stuff all the electronics in the chest, but then i wouldnt be able to fir anything inside, so I’m just doing this. I also think it looks awesome and I need to add some of the puzzles that unlock the chest around it, so the base is perfect. Got the base off of makerworld - https://makerworld.com/en/models/2679972-rocky-base-plateau#profileId-2967898
 
@@ -72,7 +72,7 @@ The chest has a base now! The base is so big it has to split into fourths to fit
 
 **Total time spent: 4h 12m**
  
-## July 21st
+## Worked on brazier
 
 I’m adding a little brazier with a led rune that will turn off when activated, and send a signal to the chest to also turn off one of the lights. Once three runes are activated the chest’s servos will activate and it will be able to open. Almost done with brazier, need to add some more coal on the top.
 
@@ -80,7 +80,7 @@ I’m adding a little brazier with a led rune that will turn off when activated,
 
 **Total time spent: 2.16 hours**
  
-## July 22nd
+## Added reed switch
 
 Added reed switch to brazier, I downloaded a nice blades of chaos fridge magnet, that can be inserted into the top. So hopefully when the magnetic blade gets inserted the reed switch will activate and send a signal to the arduino.
 
@@ -88,7 +88,7 @@ Added reed switch to brazier, I downloaded a nice blades of chaos fridge magnet,
 
 **Total time spent: 52m**
  
-## July 23rd - 25th
+## CHose new base.
 
 I’m choosing to use a different base, it just looks cooler, and also the other base had all these random strings of internal vertices. Also worked a little on the spinning rune activator/totem.
 
@@ -96,7 +96,7 @@ I’m choosing to use a different base, it just looks cooler, and also the other
 
 **Total time spent: 3h 38m**
  
-## July 25th - 28th
+## Finished brazier and totem.
 
 Done with both brazier and spinning totem! On to rune rock and then wire paths and electronics.
 
@@ -104,7 +104,7 @@ Done with both brazier and spinning totem! On to rune rock and then wire paths a
 
 **Total time spent: 46m**
  
-## July 29th - August 4th
+## Finished everything.
 
 Done with everything! I decided to do the bell instead of rune rock because I realized it wasn’t actually a rock, it was a statue, and I don’t want to spend 2 hours sculpting it. Prepping it in bambu studio, almost ready to start printing! Attached photo of statue to show you what I mean.
 
@@ -112,7 +112,7 @@ Done with everything! I decided to do the bell instead of rune rock because I re
 
 **Total time spent: 8h 30m**
  
-## August 6th
+## test print.
 
 Printed base, supports are way to crazy and areas are too weak, tweaking and reprinting. Also starting to add some more work to the bambu studio portion of the project.
 
@@ -128,7 +128,7 @@ Almost done with Bambu Studio. Putting together files for a fully 3d printable m
 
 **Total time spent: 25m**
  
-## August 12th
+## Submitted for funding.
 
 I’m submitting this for funding! I am broke and cant pay for the electronics lol. I also printed out a few parts. It needs a little post prosessing but looks great!
 
@@ -136,7 +136,7 @@ I’m submitting this for funding! I am broke and cant pay for the electronics l
 
 **Total time spent: 17m**
  
-## August 25th
+## Printed everything.
 
 Finally printed all of the print only parts! Looks awesome. Still waiting on electronics.
 
@@ -144,7 +144,7 @@ Finally printed all of the print only parts! Looks awesome. Still waiting on ele
 
 **Total time spent: 19m**
  
-## August 27th
+## Posted on makerworld
 
 Worked on firmware and updated BOM. also posted on makerworld! https://makerworld.com/en/models/3198743-god-of-war-nornir-chest-hinged-lid-no-ams#profileId-3619555
 
@@ -152,7 +152,7 @@ Worked on firmware and updated BOM. also posted on makerworld! https://makerworl
 
 **Total time spent: 1h 4m**
  
-## September 10th
+## New lamp version.
 
 Made a cheap lamp version using a kit from bambu labs, posted on makerworld. https://makerworld.com/en/models/3271930-god-of-war-nornir-chest-lamp-edition#profileId-3710162
 
@@ -160,7 +160,7 @@ Made a cheap lamp version using a kit from bambu labs, posted on makerworld. htt
 
 **Total time spent: 1h 16m**
 
-## September 14th
+## Parts came
 
 All parts came! Spent 2 minutes pulling in package i guess lol. Gonna start working on final build.
 
@@ -168,7 +168,7 @@ All parts came! Spent 2 minutes pulling in package i guess lol. Gonna start work
 
 **Total time spent: 2m**
 
-## September 16th
+## More printing
 
 Printed and removed all supports of 1/4 of the base. My stupid ass didn't record the first 5 minutes of support removal, and in the three visible frames I'm holding the base out of the cameras line of sight.
 
@@ -176,7 +176,7 @@ Printed and removed all supports of 1/4 of the base. My stupid ass didn't record
 
 **Total time spent: 10m**
 
-## September 21st
+## Started working on arduino
 
 Soldered on pin headers to the nano, dupont connectors to the battery holder, and looped all the leds.
 
@@ -184,7 +184,7 @@ Soldered on pin headers to the nano, dupont connectors to the battery holder, an
 
 **Total time spent: 1h 2m**
 
-## September 22nd
+## Chest leds
 
 Connected LEDs to nano, they work great. I'm really happy with how they came out. I'm going to work out the firmware to make it glow/ flicker blue. Also temporarily duct taped everything. I have settled on soldering everything together after I am out of the prototyping phase.
 
@@ -192,29 +192,21 @@ Connected LEDs to nano, they work great. I'm really happy with how they came out
 
 **Total time spent: 30 m**
 
-## September 25th
+## Servos dont fit in lid.
 
 Tested servos, current lid locking system is really bad, servo arm doesnt even fit in the space I made for it. Changed lid to have an extruding handle thing that will be blocked by servo arms. 
 
 **Total time spent: 1 hour**
 
-## September 25th
-
-Tested servos, current lid locking system is really bad, servo arm doesnt even fit in the space I made for it. Changed lid to have an extruding handle thing that will be blocked by servo arms. 
-
-<img width="614" height="484" alt="Screenshot 2026-09-26 at 6 01 42 PM" src="https://github.com/user-attachments/assets/f4163600-520f-4ab0-868a-dc0a20e1d4b1" />
-
-**Total time spent: 1 hour**
-
-## September 26th
+## Fixed servos, work good.
 
 Printed out new parts, replaced them, and tested. I had a pretty easy time printing everything, took out old servo holders and added new ones. The lid did kind of lock, but I was able to lift the lid up maybe two centimeters. Decreased the tolerance in the lid handle things by wrapping duct tape around it. Added switch to open and close servos and uploaded new testing code. It works! I'm actually really happy with how it came out! Will start testing brazier tommorow.
 
 <img width="360" height="552" alt="Pi7_GIF_CMP-ezgif com-crop" src="https://github.com/user-attachments/assets/431647f8-a3a1-4614-984c-190e568b3d53" />
 
-**Total time spent: 1 hour**
+**Total time spent: 2 hour**
 
-## September 27th
+## Totem pole leds
 
 Spent like 3 hours trying to solder wire to a tiny led strip. Accidentally bought 2.5mm instead of 5mm. I wasted like 30 mm of wire. The strip has an adhesive on the bottom that prevents solder to sticking on pads so I ended up just covering the led strip with burnt glue and solder without actually making any connections. The diode leds i ordered dont work as well, they all came with messed up internals, I can see the metal parts inside are way too close togther.
 
@@ -222,10 +214,12 @@ Spent like 3 hours trying to solder wire to a tiny led strip. Accidentally bough
 
 **Total time spent: 3 hours**
 
-## September 29th
+## More work on totem pole leds
 
 I took a portion of a bigger led strip from school because the one I own is way too hard to solder. I accidentally soldered the wires onto the DOUT side, and after 40 minutes of playing with arduino ide and switching between micrcontrollers, I finally decided to check the soldering a little closer, and realized I had soldered it on wrong. So I soldered it on correctly, and tested the leds, and they worked. Then I stuffed it into the pole and broke it accidentally. And then I decided to just gave up for the day for some reason.
 
 <img width="608" height="805" alt="Screenshot 2026-10-03 at 9 11 07 AM" src="https://github.com/user-attachments/assets/fbea3bd4-a1b1-42ad-b04d-493e48b5ea0d" />
 
 **Total time spent: 2 hours**
+
+## Finally got leds to work.
