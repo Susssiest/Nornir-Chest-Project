@@ -224,7 +224,7 @@ I took a portion of a bigger led strip from school because the one I own is way 
 
 ## Finally got leds to work.
 
-Made basic firmware to test if the rotary encoders work, and they do, it looks great. Spent forever trying to protect the wires against touching using tape, and connecting the rotary encoder to the breadboard, but it works! Leds flash red when not correct rune, leds flash white when correct. For some reason the leds stopped working and then after 30 minutes of panicking hey started working again, so I guess they work?
+SOldered everything corectly this time, took maybe 30 minutes including setup and putting everything away. Made basic firmware to test if the rotary encoders work, and they do, it looks great. Spent forever trying to protect the wires against touching using tape, and connecting the rotary encoder to the breadboard, but it works! Leds flash red when not correct rune, leds flash white when correct. For some reason the leds stopped working and then after 30 minutes of panicking hey started working again, so I guess they work?
 
 <img width="676" height="477" alt="Screenshot 2026-10-04 at 4 39 45 PM" src="https://github.com/user-attachments/assets/ff70b204-6e6c-4692-a9dc-771453244896" />
 
