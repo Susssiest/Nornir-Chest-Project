@@ -196,6 +196,8 @@ Connected LEDs to nano, they work great. I'm really happy with how they came out
 
 Tested servos, current lid locking system is really bad, servo arm doesnt even fit in the space I made for it. Changed lid to have an extruding handle thing that will be blocked by servo arms. 
 
+<img width="1110" height="790" alt="Screenshot 2026-10-04 at 5 19 23 PM" src="https://github.com/user-attachments/assets/ca4445d0-8ea1-4f19-9aec-b31eff6d15b2" />
+
 **Total time spent: 1 hour**
 
 ## Fixed servos, work good.
