@@ -232,4 +232,11 @@ Soldered everything corectly this time, took maybe 30 minutes including setup an
 
 **Total time spent: 4 hours**
 
+## Uh, i want to keep my forge streak.
 
+I'm logging the five minutes it took to setup my printer and send a print because I want to keep my forge streak. Yeah.
+
+<img width="1462" height="918" alt="Screenshot 2026-10-05 at 12 59 30 PM" src="https://github.com/user-attachments/assets/1948eb10-bc96-46c4-91d4-b3f301a21454" />
+
+
+**Total time spent: 5 minutes**
