@@ -252,3 +252,11 @@ I spent over three hours trying to solder the wires pointing up horizontally, an
 Luckily soldering the reed switch wasn't too hard, tested with a led and it works great. Now I'm going to stop ignoring soldering the leds and do it.
 
 **Total time spent: 40 minutes**
+
+## Got the last LED ring to work somehow
+
+I resoldered everything, and now it works! Tested it, moving on to code and implementation.
+
+<img width="597" height="802" alt="Screenshot 2026-10-08 at 8 24 05 PM" src="https://github.com/user-attachments/assets/6826b098-47d7-40cb-84df-da7479dcdb2c" />
+
+**Total time spent: 1 hour**
