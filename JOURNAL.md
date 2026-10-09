@@ -249,6 +249,6 @@ I spent over three hours trying to solder the wires pointing up horizontally, an
 
 ## Soldered the reed switch to some dupont pins.
 
-Luckily soldering the reed switch wasn't too hard, tested and it works great.
+Luckily soldering the reed switch wasn't too hard, tested with a led and it works great. Now I'm going to stop ignoring soldering the leds and do it.
 
 **Total time spent: 40 minutes**
