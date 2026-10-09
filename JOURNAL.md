@@ -240,3 +240,11 @@ I'm logging the five minutes it took to setup my printer and send a print becaus
 
 
 **Total time spent: 5 minutes**
+
+## Broke the last 3 led rings while soldering.
+
+I spent over three hours trying to solder the wires pointing up horizontally, and ended up breaking every LED. The last led looked soldered ok, but when I plugged it into the nano it started smoking for some reason, so I took it out, and now the nano doesn't work. Luckily I bought a second one, so I had to replace it and solder all the pins on. I'm going to try to fix the last led, but worst case scenario I'll just use a cut off portion from a led strip.
+
+**Total time spent: 4 hours**
+
+
