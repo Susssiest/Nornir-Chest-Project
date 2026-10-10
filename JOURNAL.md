@@ -270,3 +270,9 @@ Connected everything to dupont pins and then the nano, and coded the reed switch
 <img width="224" height="375" alt="Screenshot 2026-10-09 at 7 35 35 PM" src="https://github.com/user-attachments/assets/e6dec8cc-73b1-477e-ac70-e6199ba4f53a" />
 
 **Total time spent: 1 hour 20 minutes**
+
+## Made a calibration system for totem pole.
+ 
+I basically made a system that saves the poles position to EEPROM before it is turned off, so when it is turned on it doesn't assume it is on F, and I made a calibration system where if the pole button is pressed down for 3 seconds and released, it will set the exact position as F, so it will know where C and E are. I also added a reset button so I don't have to navigate through the mess of wires and toggle the battery switch.
+
+**Total time spent: 2 hours**
