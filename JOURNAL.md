@@ -262,3 +262,9 @@ I resoldered everything, and now it works! Tested it, moving on to code and impl
 <img width="597" height="802" alt="Screenshot 2026-10-08 at 8 24 05 PM" src="https://github.com/user-attachments/assets/6826b098-47d7-40cb-84df-da7479dcdb2c" />
 
 **Total time spent: 1 hour**
+
+## Hooked up leds and reed switch to nano, it works!
+
+Connected everything to dupont pins and then the nano, and coded the reed switch part, it works! Blinks like the totem when activated. I am experiencing a problem where the rotary encoder automatically thinks it is on F when starting, going to fix.
+
+**Total time spent: 1 hour 20 minutes**
