@@ -276,3 +276,18 @@ Connected everything to dupont pins and then the nano, and coded the reed switch
 I basically made a system that saves the poles position to EEPROM before it is turned off, so when it is turned on it doesn't assume it is on F, and I made a calibration system where if the pole button is pressed down for 3 seconds and released, it will set the exact position as F, so it will know where C and E are. I also added a reset button so I don't have to navigate through the mess of wires and toggle the battery switch.
 
 **Total time spent: 2 hours**
+
+## Soldered bell LEDs and Piezo disk.
+
+I spent maybe 2 hours soldering LEDs. I went through 3 LEDs ending up with the copper pad falling off every time, then gave up and used some random LED module I found in a bin. It was much easier to solder and it went pretty smooth. Then I just stripped the wires of the piezo disk and soldered it to some longer wires, and then put Dupont pins on the ends of every wire.
+I tested the LED, and it works, I'm pretty satisfied with how they work, I'll move on to testing the piezo disk and putting them in the stand.
+
+**Total time spent: 3 hours**
+
+## Adjusted sizes and tolerances of bell. 
+
+I just realized the bell and stand are a little too small to fit the wires and led, so I adjusted the size of everything to fit it all. Reprinted everything and moving on to fitiing everything inside, and then code.
+
+<img width="1470" height="954" alt="Screenshot 2026-10-27 at 3 08 23 PM" src="https://github.com/user-attachments/assets/1f6cba55-6cd5-4af3-838b-5b04cd59cf1b" />
+
+**Total time spent: 30 minutes**
