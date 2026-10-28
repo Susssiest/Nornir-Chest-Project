@@ -291,3 +291,9 @@ I just realized the bell and stand are a little too small to fit the wires and l
 <img width="1470" height="954" alt="Screenshot 2026-10-27 at 3 08 23 PM" src="https://github.com/user-attachments/assets/1f6cba55-6cd5-4af3-838b-5b04cd59cf1b" />
 
 **Total time spent: 30 minutes**
+
+## Replaced servos
+
+For some reason the servos don't work, so I replaced them and retested them. New ones work fine, but the servo arms dont fit on them, so I had to cad and print new ones.
+
+**Total time spent: 40 minutes**
