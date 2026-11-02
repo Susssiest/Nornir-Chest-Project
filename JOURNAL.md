@@ -297,3 +297,10 @@ I just realized the bell and stand are a little too small to fit the wires and l
 For some reason the servos don't work, so I replaced them and retested them. New ones work fine, but the servo arms dont fit on them, so I had to cad and print new ones.
 
 **Total time spent: 40 minutes**
+
+## Glued bell parts together.
+
+Stuffed wires into the frame and then put some globs of hot glue inside it. Now it reliably sticks together without tape. 
+
+**Total time spent: 20 minutes**
+
