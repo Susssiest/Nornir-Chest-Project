@@ -304,3 +304,38 @@ Stuffed wires into the frame and then put some globs of hot glue inside it. Now 
 
 **Total time spent: 20 minutes**
 
+## LEDs flicker and nano keeps on turning off and on.
+
+The LEDs keep on flickering for some reason. I tried rewiring everything, but it still doesn't work. I resoldered a bunch of wires, and it still doesn't work. I took out everything except for the leds, but they still flicker. I changed code to make them only glow blue, and glow lighter blue, but they still flicker. I'm honestly too tired to fix it, and they still glow fine otherwise, so I'm going to leave it as is for now.
+
+**Total time spent: 1 hour**
+
+## Servos don't work anymore.
+
+So the servos just make grinding sounds when they are suppssed to move, and they just dont move at all. I replaced them again, but they still don't work. I gave up on working on them, I'll probably fix tommorow.
+
+**Total time spent: 15 minutes**
+
+## Bell LED not working.
+
+The bell LED also stopped working. I took the full thing apart, checked soldering, and then plugged it in and took it out multiple times. It just doesn't work.
+
+**Total time spent: 40 minutes**
+
+## Broke brazier led ring.
+
+I tried fixing the bell again today. After maybe 20 minutes of messing around with it, I accidentally switched out the some wires I think, and the led ring started sizzling and then it turned off. I took off the tape and looked at it, and it looks like the gnd pad fell off and it was touching 5v, so they shorted and the whole thing broke. I don't have any replacements.
+
+**Total time spent: 35 minutes**
+
+## Rotary encoder tracking is weird.
+
+I tested the chest sensors, and the reed switch and piezo disk work fine, but the rotary encoders' tracking behaves pretty weird. I tested turning F to C, and it said it took 19 increments. Then I tried again, and it told me it took 15 increments, and then 22 increments, and then 15 increments again. It is pretty weird, and I'm really confused on why it is behaving like this.
+
+**Total time spent: 20 minutes**
+
+## Broke piezo disk.
+
+When i was taking the led out of the bell to double check the soldering on the pads, it was a pretty tight fit, and as I pulled it out it also pulled out one of the piezo disk wires. It completely peeled off the pad, so I had to replace it. The new piezo disk isn't seated the same, and how it senses the bell for some reason goes into the, and then stays there. It will jump up to 500 from 3 when struck, go down 5, and then when struck again go up to 2000, and then go down to -400 really fast, and then jump up to 300. I'm really confused, and pretty frustrated with how everything is breaking. I coded a cheap fix that just measures large jumps, but it isn't the same, and it will now activate when the chest is turned on, and not activate when I am hitting it multiple times.
+
+**Total time spent: 1 hour 20 minutes**
