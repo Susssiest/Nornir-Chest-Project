@@ -339,3 +339,13 @@ I tested the chest sensors, and the reed switch and piezo disk work fine, but th
 When i was taking the led out of the bell to double check the soldering on the pads, it was a pretty tight fit, and as I pulled it out it also pulled out one of the piezo disk wires. It completely peeled off the pad, so I had to replace it. The new piezo disk isn't seated the same, and how it senses the bell for some reason goes into the, and then stays there. It will jump up to 500 from 3 when struck, go down 5, and then when struck again go up to 2000, and then go down to -400 really fast, and then jump up to 300. I'm really confused, and pretty frustrated with how everything is breaking. I coded a cheap fix that just measures large jumps, but it isn't the same, and it will now activate when the chest is turned on, and not activate when I am hitting it multiple times.
 
 **Total time spent: 1 hour 20 minutes**
+
+## Nano won't connect to computer.
+
+Now, with all the other problems going on, the arduino won't connect to the computer. It still turns on, and the led glows, but it doesn't do anything else, and when I try to upload code the computer doesn't sense it. I tried multiple usbc wires, and it still doesn't work.
+
+**Total time spent: 30 minutes**
+
+
+
+
