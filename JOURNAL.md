@@ -245,6 +245,8 @@ I'm logging the five minutes it took to setup my printer and send a print becaus
 
 I spent over three hours trying to solder the wires pointing up horizontally, and ended up breaking every LED. The first leds pad fell off, the second ones' whole vcc trace and pad fell off, and the last led looked soldered ok, but when I plugged it into the nano it started smoking for some reason, so I took it out, and now the nano doesn't work. Luckily I bought a second one, so I had to replace it and solder all the pins on. I'm going to try to fix the last led, but worst case scenario I'll just use a cut off portion from a led strip.
 
+<img width="610" height="788" alt="Screenshot 2026-11-07 at 8 03 13 PM" src="https://github.com/user-attachments/assets/897b4922-552c-490c-ad88-6db9a3d7ee4d" />
+
 **Total time spent: 4 hours**
 
 ## Soldered the reed switch to some dupont pins.
