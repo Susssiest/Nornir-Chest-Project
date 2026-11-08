@@ -275,12 +275,16 @@ Connected everything to dupont pins and then the nano, and coded the reed switch
  
 I basically made a system that saves the poles position to EEPROM before it is turned off, so when it is turned on it doesn't assume it is on F, and I made a calibration system where if the pole button is pressed down for 3 seconds and released, it will set the exact position as F, so it will know where C and E are. I also added a reset button so I don't have to navigate through the mess of wires and toggle the battery switch.
 
+<img width="686" height="771" alt="Screenshot 2026-11-07 at 7 49 36 PM" src="https://github.com/user-attachments/assets/bc4feec1-48d7-4ba6-816b-09292a14d286" />
+
 **Total time spent: 2 hours**
 
 ## Soldered bell LEDs and Piezo disk.
 
 I spent maybe 2 hours soldering LEDs. I went through 3 LEDs ending up with the copper pad falling off every time, then gave up and used some random LED module I found in a bin. It was much easier to solder and it went pretty smooth. Then I just stripped the wires of the piezo disk and soldered it to some longer wires, and then put Dupont pins on the ends of every wire.
 I tested the LED, and it works, I'm pretty satisfied with how they work, I'll move on to testing the piezo disk and putting them in the stand.
+
+<img width="576" height="676" alt="Screenshot 2026-11-07 at 7 50 20 PM" src="https://github.com/user-attachments/assets/b0ec3d36-5163-4ebc-b50b-dfb4f24d5246" />
 
 **Total time spent: 3 hours**
 
@@ -296,11 +300,15 @@ I just realized the bell and stand are a little too small to fit the wires and l
 
 For some reason the servos don't work, so I replaced them and retested them. New ones work fine, but the servo arms dont fit on them, so I had to cad and print new ones.
 
+<img width="614" height="806" alt="Screenshot 2026-11-07 at 7 50 41 PM" src="https://github.com/user-attachments/assets/60337d05-bd05-4d95-b44c-a2e4420e4ceb" />
+
 **Total time spent: 40 minutes**
 
 ## Glued bell parts together.
 
 Stuffed wires into the frame and then put some globs of hot glue inside it. Now it reliably sticks together without tape. 
+
+<img width="369" height="421" alt="Screenshot 2026-11-07 at 7 51 15 PM" src="https://github.com/user-attachments/assets/24e03646-9dab-47da-bb42-9ef85ec94598" />
 
 **Total time spent: 20 minutes**
 
@@ -308,11 +316,15 @@ Stuffed wires into the frame and then put some globs of hot glue inside it. Now 
 
 The LEDs keep on flickering for some reason. I tried rewiring everything, but it still doesn't work. I resoldered a bunch of wires, and it still doesn't work. I took out everything except for the leds, but they still flicker. I changed code to make them only glow blue, and glow lighter blue, but they still flicker. I'm honestly too tired to fix it, and they still glow fine otherwise, so I'm going to leave it as is for now.
 
+<img width="609" height="812" alt="Screenshot 2026-11-07 at 7 51 59 PM" src="https://github.com/user-attachments/assets/d08961dc-ba01-4da4-8ec8-3915f3546a5d" />
+
 **Total time spent: 1 hour**
 
 ## Servos don't work anymore.
 
 So the servos just make grinding sounds when they are suppssed to move, and they just dont move at all. I replaced them again, but they still don't work. I gave up on working on them, I'll probably fix tommorow.
+
+<img width="610" height="812" alt="Screenshot 2026-11-07 at 7 52 21 PM" src="https://github.com/user-attachments/assets/b381bddb-0f13-4720-aa6f-e32060a64064" />
 
 **Total time spent: 15 minutes**
 
@@ -320,11 +332,15 @@ So the servos just make grinding sounds when they are suppssed to move, and they
 
 The bell LED also stopped working. I took the full thing apart, checked soldering, and then plugged it in and took it out multiple times. It just doesn't work.
 
+<img width="584" height="690" alt="Screenshot 2026-11-07 at 7 53 42 PM" src="https://github.com/user-attachments/assets/0c1a895d-1343-4fc2-9773-f10a7365689f" />
+
 **Total time spent: 40 minutes**
 
 ## Broke brazier led ring.
 
 I tried fixing the bell again today. After maybe 20 minutes of messing around with it, I accidentally switched out the some wires I think, and the led ring started sizzling and then it turned off. I took off the tape and looked at it, and it looks like the gnd pad fell off and it was touching 5v, so they shorted and the whole thing broke. I don't have any replacements.
+
+<img width="423" height="535" alt="Screenshot 2026-11-07 at 7 55 28 PM" src="https://github.com/user-attachments/assets/a3d9cbdb-5db9-4f15-bbc9-f3d273fff2f0" />
 
 **Total time spent: 35 minutes**
 
@@ -332,11 +348,15 @@ I tried fixing the bell again today. After maybe 20 minutes of messing around wi
 
 I tested the chest sensors, and the reed switch and piezo disk work fine, but the rotary encoders' tracking behaves pretty weird. I tested turning F to C, and it said it took 19 increments. Then I tried again, and it told me it took 15 increments, and then 22 increments, and then 15 increments again. It is pretty weird, and I'm really confused on why it is behaving like this.
 
+<img width="413" height="536" alt="Screenshot 2026-11-07 at 7 56 54 PM" src="https://github.com/user-attachments/assets/fc12cc3b-71cf-4f83-bdbd-31afd3a604b8" />
+
 **Total time spent: 20 minutes**
 
 ## Broke piezo disk.
 
 When i was taking the led out of the bell to double check the soldering on the pads, it was a pretty tight fit, and as I pulled it out it also pulled out one of the piezo disk wires. It completely peeled off the pad, so I had to replace it. The new piezo disk isn't seated the same, and how it senses the bell for some reason goes into the, and then stays there. It will jump up to 500 from 3 when struck, go down 5, and then when struck again go up to 2000, and then go down to -400 really fast, and then jump up to 300. I'm really confused, and pretty frustrated with how everything is breaking. I coded a cheap fix that just measures large jumps, but it isn't the same, and it will now activate when the chest is turned on, and not activate when I am hitting it multiple times.
+
+<img width="464" height="595" alt="Screenshot 2026-11-07 at 7 58 38 PM" src="https://github.com/user-attachments/assets/93a11f7d-6fc5-445e-8fb2-592fe39073f9" />
 
 **Total time spent: 1 hour 20 minutes**
 
@@ -344,13 +364,17 @@ When i was taking the led out of the bell to double check the soldering on the p
 
 Now, with all the other problems going on, the arduino won't connect to the computer. It still turns on, and the led glows, but it doesn't do anything else, and when I try to upload code the computer doesn't sense it. I tried multiple usbc wires, and it still doesn't work.
 
+<img width="587" height="689" alt="Screenshot 2026-11-07 at 7 59 04 PM" src="https://github.com/user-attachments/assets/fc4e72ea-33a1-4f1d-be00-cc62f532c7fd" />
+
 **Total time spent: 30 minutes**
 
 ## Submitting project as lamp and replica.
 
-I'm really frustrated that the project keeps on breaking, so I'm submitting it as a lamp and replica instead of the fully working puzzle chest I originally planned. I got the different parts working at different points, but I haven't been able to get everything working reliably together. The servos stopped moving, multiple LEDs broke, the rotary encoder isn't tracking consistently, the bell sensor is unreliable, and now the Nano won't connect to my computer, so I can't even upload more fixes. Many of the parts are fried (LEDs, nano) and I don't even have enough points to get mroe funding for the project, so I'm pretty much broke.
+I'm submitting the project as a lamp and replica instead of the fully working puzzle chest I originally planned. I got the different parts working at different points, but I haven't been able to get everything working reliably together. The servos stopped moving, multiple LEDs broke, the rotary encoder isn't tracking consistently, the bell sensor is unreliable, and now the Nano won't connect to my computer, so I can't even upload more fixes. Many of the parts are fried (LEDs, nano) and I don't even have enough points to get mroe funding for the project, so I'm pretty much broke.
 
 I'm still really happy with how the chest itself came out. I finished the model, printed and assembled it, and published both the print-only version and the lamp version on MakerWorld. It isn't the interactive chest I wanted, but I don't want to pretend the electronics work when they don't, or keep logging time replacing parts without actually making progress. I learned a lot about CAD, designing parts that actually fit together, soldering, and writing firmware throughout this project. I also spent way more time debugging than I expected lol. For now I'm calling the puzzle version unfinished and submitting the lamp and replica versions as what I was able to finish.
+
+<img width="1470" height="799" alt="Screenshot 2026-11-07 at 8 00 22 PM" src="https://github.com/user-attachments/assets/0eb4781d-71a1-43a6-bcfb-2e26ba1e13c3" />
 
 **Total time spent: 20 minutes**
 
