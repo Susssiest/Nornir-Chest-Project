@@ -346,6 +346,14 @@ Now, with all the other problems going on, the arduino won't connect to the comp
 
 **Total time spent: 30 minutes**
 
+## Submitting project as lamp and replica.
+
+I'm really frustrated that the project keeps on breaking, so I'm submitting it as a lamp and replica instead of the fully working puzzle chest I originally planned. I got the different parts working at different points, but I haven't been able to get everything working reliably together. The servos stopped moving, multiple LEDs broke, the rotary encoder isn't tracking consistently, the bell sensor is unreliable, and now the Nano won't connect to my computer, so I can't even upload more fixes. Many of the parts are fried (LEDs, nano) and I don't even have enough points to get mroe funding for the project, so I'm pretty much broke.
+
+I'm still really happy with how the chest itself came out. I finished the model, printed and assembled it, and published both the print-only version and the lamp version on MakerWorld. It isn't the interactive chest I wanted, but I don't want to pretend the electronics work when they don't, or keep logging time replacing parts without actually making progress. I learned a lot about CAD, designing parts that actually fit together, soldering, and writing firmware throughout this project. I also spent way more time debugging than I expected lol. For now I'm calling the puzzle version unfinished and submitting the lamp and replica versions as what I was able to finish.
+
+**Total time spent: 20 minutes**
+
 
 
 
